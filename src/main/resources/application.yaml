@@ -1,0 +1,6 @@
+info:
+  app:
+    name: scoreboard
+
+server:
+  port: 8080
